@@ -10,6 +10,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 two files are there Activity recogintion data visualisation which contains the data analysis and checking the balancing of the data 
 
+<div align="center">
+ <h2> Data of different Activities </h2>
+ <img src="./clustering.jpg" height="223px">
+</div>
+
 
 second file contains the clustering done on the data using kmeans and expectation maximisation gaussian mixture model 
 
