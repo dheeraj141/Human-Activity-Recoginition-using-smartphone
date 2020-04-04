@@ -12,7 +12,7 @@ two files are there Activity recogintion data visualisation which contains the d
 
 <div align="center">
  <h2> Data of different Activities </h2>
- <img src="./clustering.jpg" height="223px">
+ <img src="./clustering.png" height="223px">
 </div>
 
 
